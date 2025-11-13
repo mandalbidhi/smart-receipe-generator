@@ -18,4 +18,5 @@ It was created using **Next.js** and **React** as part of a software project ass
 ### 1. Install dependencies
 Open your terminal inside the project folder and run:
 ```bash
-npm install
+npm install --legacy-peer-deps
+npm run dev
